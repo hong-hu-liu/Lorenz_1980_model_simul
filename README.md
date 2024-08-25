@@ -72,7 +72,7 @@ https://doi.org/10.1073/pnas.2113650118
 }
 ```
 
-[L80] E. N. Lorenz (1980): Attractor sets and quasi-geostrophic equilibrium. J Atmos Sci 37, 1685–1699. https://doi.org/10.1175/1520-0469(1980)037<1685:ASAQGE>2.0.CO;2
+[L80] E. N. Lorenz (1980): Attractor sets and quasi-geostrophic equilibrium. J Atmos Sci 37, 1685–1699. [https://doi.org/10.1175/1520-0469(1980)037<1685:ASAQGE>2.0.CO;2](https://doi.org/10.1175/1520-0469(1980)037<1685:ASAQGE>2.0.CO;2)
 
 ```
 @article{L80,
