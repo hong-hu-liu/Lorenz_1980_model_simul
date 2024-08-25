@@ -14,7 +14,7 @@ This folder contains:
 
 -A script that actually integrates the L80 model using a standard RK4 scheme ("int_Lorenz9D.m")
 
-- "run_Lorenz80_model.m" is the main script that calls the above functions to integrate the L80 model. It produces a figure showing time series of the model and a projection of the L80 model's attractor 
+-The script "run_Lorenz80_model.m" is the main script that calls the above functions to integrate the L80 model. It produces a figure showing time series of the model and a projection of the L80 model's attractor 
 
 In "run_Lorenz80_model.m" 
 par_id = 1 corresponds to the High-low Frequency (HLF) regime analyzed in [CLSM24] and [CLM21] 
