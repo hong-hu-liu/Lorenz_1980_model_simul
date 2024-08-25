@@ -1,5 +1,5 @@
-# Lorenz_1980_model_simul
-Matlab Codes for integrating the Lorenz 80 (L80) model
+# Simulation of the Lorenz 1980 model
+Matlab codes for integrating the Lorenz 80 (L80) model
 
 The model equations are those given by Eqns (33)-(35) in
 [L80] E. N. Lorenz (1980): Attractor sets and quasi-geostrophic equilibrium. J Atmos Sci 37, 1685-1699.
