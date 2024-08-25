@@ -8,11 +8,11 @@ We refer to this model as the L80 model.
 
 This folder contains:
 
--A script that defines the coefficients required to form the RHS of the L80 model  ("get_par_Lorenz9D.m")
+-A script that defines the coefficients required to form the RHS of the L80 model  ("/auxiliary_code/get_par_Lorenz9D.m")
 
--A script that forms the linear, nonlinear and forcing terms (RHS of the L80 model) necessary to integrate the model ("get_VF.m")  
+-A script that forms the linear, nonlinear and forcing terms (RHS of the L80 model) necessary to integrate the model ("/auxiliary_code/get_VF.m")  
 
--A script that actually integrates the L80 model using a standard RK4 scheme ("int_Lorenz9D.m")
+-A script that actually integrates the L80 model using a standard RK4 scheme ("/auxiliary_code/int_Lorenz9D.m")
 
 -The script "run_Lorenz80_model.m" is the main script that calls the above functions to integrate the L80 model. It produces a figure showing time series of the model and a projection of the L80 model's attractor 
 
